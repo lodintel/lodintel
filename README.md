@@ -31,7 +31,7 @@ Computer Engineer and full-stack developer, aspiring cybersecurity & networking 
 | Project | Description | Tech |
 |---|---|---|
 | **[Milbert Construction](https://github.com/lodintel/milbert-construction)** | Full-stack company website with an animated public site, JWT-authenticated admin panel, and a dynamic CMS-connected content layer | Next.js, Express, Prisma, PostgreSQL, Cloudinary |
-| **[ProjectOS](https://github.com/lodintel/project-os)** | Personal project management platform with kanban boards, activity heatmaps, and a terminal-inspired UI | React, Vite, Supabase |
+| **[ProjectOS](https://project-os-v1.vercel.app/)** | Personal project management platform with kanban boards, activity heatmaps, and a terminal-inspired UI | React, Vite, Supabase |
 | **[Password Health Checker](https://github.com/lodintel/password-health-checker)** | Security-focused app for evaluating password strength, with CSRF protection and rate limiting | Flask, Flask-WTF, Flask-Limiter |
 | **[Movie Discovery App](https://github.com/lodintel/movie-app)** | Responsive movie browser with search and detail views | React, Tailwind CSS, TMDB API |
 | **[AI Stethoscope](https://github.com/lodintel/ai_stethoscope_v2)** | An AI-enhanced stethoscope with real-time heart & lung sound analysis | Tensorflowlite, ESP32, 1D-CNN |
